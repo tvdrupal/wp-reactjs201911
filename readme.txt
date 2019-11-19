@@ -1,8 +1,11 @@
 readme
 https://www.youtube.com/watch?v=fFNXWinbgro
 
+<<<<<<< HEAD
  
 ------------------
+=======
+>>>>>>> f8f8addbecf0140b40e67f7b9fff42ff32cf388c
 
 http://www.yoursite/wp-json   //要先开启 setting/ permalink
 
@@ -19,9 +22,15 @@ body: raw下输入下面代码：
 
 
 {
+<<<<<<< HEAD
     "title":" post one",
     "content":"this is post one",
     "status":"publish"
+=======
+	"title":" post one",
+	"content":"this is post one",
+	"status":"publish"
+>>>>>>> f8f8addbecf0140b40e67f7b9fff42ff32cf388c
 
 }
 ----------
@@ -61,8 +70,13 @@ define('JWT_AUTH_CORS_ENABLE', true);
 header:content-type: json
 body的raw:
 {
+<<<<<<< HEAD
     "username":"admin",
     "password":"你的密码"
+=======
+	"username":"admin",
+	"password":"你的密码"
+>>>>>>> f8f8addbecf0140b40e67f7b9fff42ff32cf388c
 }
 -----
 然后出现：
@@ -85,9 +99,15 @@ body: raw下输入下面代码：
 
 
 {
+<<<<<<< HEAD
     "title":" post one",
     "content":"this is post one",
     "status":"publish"
+=======
+	"title":" post one",
+	"content":"this is post one",
+	"status":"publish"
+>>>>>>> f8f8addbecf0140b40e67f7b9fff42ff32cf388c
 
 }
 这样就可以添加文章了。
@@ -112,6 +132,7 @@ wp-json/wp/v2/books?per_page=1  一页只显示一个
 安装 advanced custom fields
 acf to rest api
 
+<<<<<<< HEAD
 ======
 接下来用 reactjs
 npx create-react-app my-app
@@ -126,6 +147,8 @@ https://www.npmjs.com/package/create-react-app
 
 
 
+=======
+>>>>>>> f8f8addbecf0140b40e67f7b9fff42ff32cf388c
 
 
 
