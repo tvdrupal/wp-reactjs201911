@@ -14,7 +14,9 @@
     "redux": "^4.0.4",
     "router": "^1.3.3"
   },
+  "homepage": "https://tvdrupal.github.io/wp-reactjs201911/",
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
