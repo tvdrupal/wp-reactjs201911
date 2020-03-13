@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wp-reactjs201911/static/css/main.8bd5baf6.chunk.css",
+    "main.js": "/wp-reactjs201911/static/js/main.82b6817c.chunk.js",
+    "main.js.map": "/wp-reactjs201911/static/js/main.82b6817c.chunk.js.map",
+    "runtime-main.js": "/wp-reactjs201911/static/js/runtime-main.8151adf4.js",
+    "runtime-main.js.map": "/wp-reactjs201911/static/js/runtime-main.8151adf4.js.map",
+    "static/js/2.b8c725c5.chunk.js": "/wp-reactjs201911/static/js/2.b8c725c5.chunk.js",
+    "static/js/2.b8c725c5.chunk.js.map": "/wp-reactjs201911/static/js/2.b8c725c5.chunk.js.map",
+    "index.html": "/wp-reactjs201911/index.html",
+    "precache-manifest.2cc41377c714ae793194dfc517f00893.js": "/wp-reactjs201911/precache-manifest.2cc41377c714ae793194dfc517f00893.js",
+    "service-worker.js": "/wp-reactjs201911/service-worker.js",
+    "static/css/main.8bd5baf6.chunk.css.map": "/wp-reactjs201911/static/css/main.8bd5baf6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8151adf4.js",
+    "static/js/2.b8c725c5.chunk.js",
+    "static/css/main.8bd5baf6.chunk.css",
+    "static/js/main.82b6817c.chunk.js"
+  ]
+}
